@@ -1,2 +1,2 @@
 # 2ATermStuff
-Some C++ assignments
+Some completed C++ assignments from the second-year ECE Algorithms and Data Structures course
